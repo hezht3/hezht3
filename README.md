@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓   &nbsp; Studying Genetic Epidemiology at Johns Hopkins University Bloomberg School of Public Health.
-- 📚   Interested in research on chronic conditions and aging.
-- 🌱   &nbsp; Learning more about statistical models, data analysis, and epidemiologic study design.
-- 🙋‍♂️   Looking for research opportunities.
+- 🎓 Studying Genetic Epidemiology at Johns Hopkins University Bloomberg School of Public Health.
+- 📚 Interested in research on chronic conditions and aging.
+- 🌱 Learning more about statistical models, data analysis, and epidemiologic study design.
+- 🙋‍♂️ Looking for research opportunities.
 
 
 
