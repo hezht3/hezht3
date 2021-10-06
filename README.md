@@ -22,9 +22,6 @@
 <a href="EndNote"><img alt="EndNote" src="https://img.shields.io/badge/-EndNote-333333?style=flat"></a>
 <a href="Mandeley"><img alt="Mandeley" src="https://img.shields.io/badge/-Mandeley-333333?style=flat"></a>
 <a href="Photoshop"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
-
-</br>
-
 <img width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=hezht3&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true"/>
 
 
