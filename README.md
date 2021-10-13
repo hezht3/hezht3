@@ -22,8 +22,22 @@
 <a href="EndNote"><img alt="EndNote" src="https://img.shields.io/badge/-EndNote-333333?style=flat"></a>
 <a href="Mandeley"><img alt="Mandeley" src="https://img.shields.io/badge/-Mandeley-333333?style=flat"></a>
 <a href="Photoshop"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
-<img width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=hezht3&theme=algolia&show_icons=true&count_private=true&bg_color=333333&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true"/>
 
+
+<h3> ⚡ &nbsp;Stats</h3>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/hezht3/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=hezht3&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=hezht3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=hezht3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 <h3> 👯 &nbsp;Connect with Me </h3>
