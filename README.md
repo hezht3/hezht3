@@ -29,10 +29,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/hezht3/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=hezht3&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=hezht3&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=hezht3&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=hezht3&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br>
