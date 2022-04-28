@@ -19,6 +19,7 @@
 <a href="Git"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
 <a href="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
 <a href="Markdown"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
+<a href="Anaconda"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda"></a>
 <a href="Jupyter"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter"></a>
 <a href="EndNote"><img alt="EndNote" src="https://img.shields.io/badge/-EndNote-333333?style=flat"></a>
 <a href="Mandeley"><img alt="Mandeley" src="https://img.shields.io/badge/-Mandeley-333333?style=flat"></a>
