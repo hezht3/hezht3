@@ -22,7 +22,8 @@
 <a href="Anaconda"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda"></a>
 <a href="Jupyter"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter"></a>
 <a href="EndNote"><img alt="EndNote" src="https://img.shields.io/badge/-EndNote-333333?style=flat"></a>
-<a href="Mandeley"><img alt="Mandeley" src="https://img.shields.io/badge/-Mandeley-333333?style=flat"></a>
+<a href="Mendeley"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-333333?style=flat"></a>
+<a href="Zotero"><img alt="Zotero" src="https://img.shields.io/badge/-Zotero-333333?style=flat"></a>
 <a href="Photoshop"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
 
 
