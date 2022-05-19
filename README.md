@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 Studying Genetic Epidemiology at Johns Hopkins University Bloomberg School of Public Health.
-- 📚 Interested in research on chronic conditions and aging.
+- 📚 Interested in statistical human genetics, genetic epidemiology, risk prediction, and causal inference.
 - 🌱 Learning more about statistical models, data analysis, and epidemiologic study design.
 - 🙋‍♂️ Looking for research opportunities.
 
@@ -16,6 +16,7 @@
 <a href="Stata"><img alt="Stata" src="https://img.shields.io/badge/-Stata-333333?style=flat"></a>
 <a href="SPSS"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-333333?style=flat"></a>
 <a href="SAS"><img alt="SAS" src="https://img.shields.io/badge/-SAS-333333?style=flat"></a>
+<a href="Shell"><img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=Windows Terminal&logoColor=276DC3"></a>
 <a href="Git"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
 <a href="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
 <a href="Markdown"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
