@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 Studying Genetic Epidemiology at Johns Hopkins University Bloomberg School of Public Health.
-- 📚 Interested in statistical human genetics, genetic epidemiology, risk prediction, and causal inference.
-- 🌱 Learning more about statistical models, data analysis, and epidemiologic study design.
-- 🙋‍♂️ Looking for research opportunities.
+- 🎓 Master of Science in Epidemiology (Genetic Epidemiology) @ Johns Hopkins Bloomberg School of Public Health, Class of 2023.
+- 📚 Research Data Analyst focusing on genetics and epigenetics related to autism and developmental processes in the pediatric populations.
+- 🌱 Interested in understanding genetic and environmental etiology of complex traits, studying multi-omics molecular markers of environmental exposures, gene-environment interactions, and risk predictions.
+- 🙋‍♂️ Looking for PhD in Epidemiology opportunities.
 
 
 
@@ -13,10 +13,11 @@
 
 <p align="center">
 <a href="R"><img alt="R" src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3"></a>
+<a href="Python"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python"></a>
+<a href="Shell"><img alt="Shell" src="https://img.shields.io/badge/-Unix%20Shell%20(Bash)-333333?style=flat&logo=GNU Bash"></a>
 <a href="Stata"><img alt="Stata" src="https://img.shields.io/badge/-Stata-333333?style=flat"></a>
 <a href="SPSS"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-333333?style=flat"></a>
 <a href="SAS"><img alt="SAS" src="https://img.shields.io/badge/-SAS-333333?style=flat"></a>
-<a href="Shell"><img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=Windows Terminal&logoColor=276DC3"></a>
 <a href="Git"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
 <a href="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
 <a href="Markdown"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
@@ -31,27 +32,13 @@
 
 
 
-
 <h3> ⚡ &nbsp;Stats</h3>
 
 <p align=center>
-  <div align=center>
     <a href="https://github.com/hezht3/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=hezht3&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=hezht3&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=hezht3&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br>
-
 </p>
-
-
-
-
-
-
 
 
 
@@ -60,12 +47,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/zhengting-johnathan-he-98206a1a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhengting%20Johnathan%20He-blue?style=flat-square&logo=linkedin"></a>
 <a href="zhe33@jhu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-zhe33@jhu.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://scholar.google.com/citations?user=dKyMlSEAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Zhengting%20(Johnathan)%20He-blue?style=flat-square&logo=googlescholar"></a>
 </p>
-
-
-
-
-
 
 
 
