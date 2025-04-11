@@ -2,10 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 Master of Science in Epidemiology (Genetic Epidemiology) @ Johns Hopkins Bloomberg School of Public Health, Class of 2023.
-- 📚 Research Data Analyst focusing on genetics and epigenetics related to autism and developmental processes in the pediatric populations.
+- 🎓 PhD student in Epidemiology (Genetic Epidemiology) @ Johns Hopkins Bloomberg School of Public Health, Class of 2023.
+- 📚 Focusing on genetics and epigenetics related to autism and developmental processes in the pediatric populations.
 - 🌱 Interested in understanding genetic and environmental etiology of complex traits, studying multi-omics molecular markers of environmental exposures, gene-environment interactions, and risk predictions.
-- 🙋‍♂️ Looking for PhD in Epidemiology opportunities.
 
 
 
